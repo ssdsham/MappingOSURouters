@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files/Nmap/nmap.xsl" type="text/xsl"?>
+<nmaprun start="1424141882" profile_name="Quick traceroute" xmloutputversion="1.04" scanner="nmap" version="6.47" startstr="Mon Feb 16 21:58:02 2015" args="nmap -sn --traceroute 164.107.2.17-18">
+    <verbose level="0"></verbose>
+    <debugging level="0"></debugging>
+    <output type="interactive">
+
+Starting Nmap 6.47 ( http://nmap.org ) at 2015-02-16 21:58 Eastern Standard Time
+
+Nmap scan report for kc6-teng8-4.net.ohio-state.edu (164.107.2.17)
+
+Host is up (0.13s latency).
+
+
+
+TRACEROUTE (using port 443/tcp)
+
+HOP RTT       ADDRESS
+
+-   Hops 1-13 are the same as for 164.107.2.18
+
+14  83.00 ms  kc1-teng1-20.net.ohio-state.edu (164.107.2.194)
+
+15  113.00 ms kc6-teng8-4.net.ohio-state.edu (164.107.2.17)
+
+
+
+Nmap scan report for kc1-teng1-14.net.ohio-state.edu (164.107.2.18)
+
+Host is up (0.12s latency).
+
+
+
+TRACEROUTE (using proto 1/icmp)
+
+HOP RTT       ADDRESS
+
+1   73.00 ms  192.168.0.1
+
+2   ...
+
+3   122.00 ms dynamic-76-73-172-233.knology.net (76.73.172.233)
+
+4   107.00 ms 76-73-167-198.knology.net (76.73.167.198)
+
+5   141.00 ms 76-73-166-126.knology.net (76.73.166.126)
+
+6   109.00 ms 76-73-166-125.knology.net (76.73.166.125)
+
+7   125.00 ms static-69-73-0-139.knology.net (69.73.0.139)
+
+8   86.00 ms  user-75-76-127-229.knology.net (75.76.127.229)
+
+9   167.00 ms 10gigabitethernet4-1.core1.chi1.he.NET (206.223.119.37)
+
+10  125.00 ms ohio-state-university.10gigabitethernet9-4.core1.chi1.he.net (216.66.76.182)
+
+11  153.00 ms clmbn-r0-xe-1-1-1s100.core.oar.net (199.218.38.18)
+
+12  141.00 ms clmbk-r9-xe-1-1-1s100.core.oar.net (199.218.38.34)
+
+13  134.00 ms kc3-teng1-4s330.ohio-dmz.net (199.18.169.2)
+
+14  100.00 ms kc1-teng1-14.net.ohio-state.edu (164.107.2.18)
+
+
+
+Nmap done: 2 IP addresses (2 hosts up) scanned in 5.42 seconds
+
+</output>
+    <host comment="">
+        <status state="up"></status>
+        <address addrtype="ipv4" vendor="" addr="164.107.2.17"></address>
+        <hostnames>
+            <hostname type="PTR" name="kc6-teng8-4.net.ohio-state.edu"></hostname>
+        </hostnames>
+        <ports></ports>
+        <os></os>
+        <uptime lastboot="" seconds=""></uptime>
+        <tcpsequence index="" values="" difficulty=""></tcpsequence>
+        <ipidsequence values="" class=""></ipidsequence>
+        <tcptssequence values="" class=""></tcptssequence>
+        <trace port="443" proto="tcp">
+            <hop rtt="73.00" host="" ipaddr="192.168.0.1" ttl="1"></hop>
+            <hop rtt="122.00" host="dynamic-76-73-172-233.knology.net" ipaddr="76.73.172.233" ttl="3"></hop>
+            <hop rtt="107.00" host="76-73-167-198.knology.net" ipaddr="76.73.167.198" ttl="4"></hop>
+            <hop rtt="141.00" host="76-73-166-126.knology.net" ipaddr="76.73.166.126" ttl="5"></hop>
+            <hop rtt="109.00" host="76-73-166-125.knology.net" ipaddr="76.73.166.125" ttl="6"></hop>
+            <hop rtt="125.00" host="static-69-73-0-139.knology.net" ipaddr="69.73.0.139" ttl="7"></hop>
+            <hop rtt="86.00" host="user-75-76-127-229.knology.net" ipaddr="75.76.127.229" ttl="8"></hop>
+            <hop rtt="167.00" host="10gigabitethernet4-1.core1.chi1.he.NET" ipaddr="206.223.119.37" ttl="9"></hop>
+            <hop rtt="125.00" host="ohio-state-university.10gigabitethernet9-4.core1.chi1.he.net" ipaddr="216.66.76.182" ttl="10"></hop>
+            <hop rtt="153.00" host="clmbn-r0-xe-1-1-1s100.core.oar.net" ipaddr="199.218.38.18" ttl="11"></hop>
+            <hop rtt="141.00" host="clmbk-r9-xe-1-1-1s100.core.oar.net" ipaddr="199.218.38.34" ttl="12"></hop>
+            <hop rtt="134.00" host="kc3-teng1-4s330.ohio-dmz.net" ipaddr="199.18.169.2" ttl="13"></hop>
+            <hop rtt="83.00" host="kc1-teng1-20.net.ohio-state.edu" ipaddr="164.107.2.194" ttl="14"></hop>
+            <hop rtt="113.00" host="kc6-teng8-4.net.ohio-state.edu" ipaddr="164.107.2.17" ttl="15"></hop>
+        </trace>
+    </host>
+    <host comment="">
+        <status state="up"></status>
+        <address addrtype="ipv4" vendor="" addr="164.107.2.18"></address>
+        <hostnames>
+            <hostname type="PTR" name="kc1-teng1-14.net.ohio-state.edu"></hostname>
+        </hostnames>
+        <ports></ports>
+        <os></os>
+        <uptime lastboot="" seconds=""></uptime>
+        <tcpsequence index="" values="" difficulty=""></tcpsequence>
+        <ipidsequence values="" class=""></ipidsequence>
+        <tcptssequence values="" class=""></tcptssequence>
+        <trace port="" proto="icmp">
+            <hop rtt="73.00" host="" ipaddr="192.168.0.1" ttl="1"></hop>
+            <hop rtt="122.00" host="dynamic-76-73-172-233.knology.net" ipaddr="76.73.172.233" ttl="3"></hop>
+            <hop rtt="107.00" host="76-73-167-198.knology.net" ipaddr="76.73.167.198" ttl="4"></hop>
+            <hop rtt="141.00" host="76-73-166-126.knology.net" ipaddr="76.73.166.126" ttl="5"></hop>
+            <hop rtt="109.00" host="76-73-166-125.knology.net" ipaddr="76.73.166.125" ttl="6"></hop>
+            <hop rtt="125.00" host="static-69-73-0-139.knology.net" ipaddr="69.73.0.139" ttl="7"></hop>
+            <hop rtt="86.00" host="user-75-76-127-229.knology.net" ipaddr="75.76.127.229" ttl="8"></hop>
+            <hop rtt="167.00" host="10gigabitethernet4-1.core1.chi1.he.NET" ipaddr="206.223.119.37" ttl="9"></hop>
+            <hop rtt="125.00" host="ohio-state-university.10gigabitethernet9-4.core1.chi1.he.net" ipaddr="216.66.76.182" ttl="10"></hop>
+            <hop rtt="153.00" host="clmbn-r0-xe-1-1-1s100.core.oar.net" ipaddr="199.218.38.18" ttl="11"></hop>
+            <hop rtt="141.00" host="clmbk-r9-xe-1-1-1s100.core.oar.net" ipaddr="199.218.38.34" ttl="12"></hop>
+            <hop rtt="134.00" host="kc3-teng1-4s330.ohio-dmz.net" ipaddr="199.18.169.2" ttl="13"></hop>
+            <hop rtt="100.00" host="kc1-teng1-14.net.ohio-state.edu" ipaddr="164.107.2.18" ttl="14"></hop>
+        </trace>
+    </host>
+    <runstats>
+        <finished timestr="Mon Feb 16 21:58:07 2015" time="1424141887"></finished>
+        <hosts down="0" total="2" up="2"></hosts>
+    </runstats>
+</nmaprun>

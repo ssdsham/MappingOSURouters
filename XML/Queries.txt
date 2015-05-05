@@ -1,0 +1,32 @@
+LOAD CSV WITH HEADERS FROM "file:///C:/csv/nw/nodes.csv" AS csvLine
+CREATE (n:Node { nid: toInt(csvLine.nid), ip: csvLine.ip, name: csvLine.name })
+
+LOAD CSV WITH HEADERS FROM "file:///C:/csv/nw/rels.csv" AS csvLine
+MATCH (node:Node { ip: csvLine.parent}),(node2:Node { ip: csvLine.child})
+CREATE (node)-[:Relation{ rtt: toInt(csvLine.rtt) }]->(node2)
+
+match (n)-[r]-(m) delete n,r,m;
+
+MATCH (a:Node { ip:"164.107.2.114" }),(b:Node { ip:"164.107.2.161" }), p = allShortestPaths((a)-[*]-(b)) RETURN p
+
+MATCH  p=(a:Node { ip:"164.107.2.114" })-[*]-(b:Node { ip:"164.107.2.161" })
+RETURN p AS shortestPath, reduce(rtt=0, r in relationships(p) | rtt+r.rtt) AS totalDistance
+ORDER BY totalDistance ASC
+LIMIT 1;
+
+=============================================================================================
+
+START  startNode=node(3078), endNode=node(3071)
+MATCH  p=(startNode)-[*]-(endNode)
+RETURN p AS shortestPath, reduce(rtt=0, r in relationships(p) | rtt+r.rtt) AS totalDistance
+ORDER BY totalDistance ASC
+LIMIT 1;
+
+CREATE INDEX ON :node(ip)
+CREATE INDEX ON :Node(ip)
+
+START  startNode=node:node_auto_index(ip="164.107.3.33"), endNode=node:node_auto_index(ip="164.107.198.39")
+MATCH  p=(startNode)-[*]-(endNode)
+RETURN p AS shortestPath, reduce(rtt=0, r in relationships(p) | rtt+r.rtt) AS totalDistance
+ORDER BY totalDistance ASC
+LIMIT 1;

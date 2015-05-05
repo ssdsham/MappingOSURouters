@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun start="1424048816" profile_name="Quick traceroute" xmloutputversion="1.04" scanner="nmap" version="6.47" startstr="Sun Feb 15 20:06:56 2015" args="nmap -sn --traceroute 164.107.0-2.0-255"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">
+Starting Nmap 6.47 ( http://nmap.org ) at 2015-02-15 20:06 Eastern Standard Time
+Nmap scan report for kc1-teng2-12.net.ohio-state.edu (164.107.1.1)
+Host is up (0.084s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   3.00 ms  192.168.0.1
+2   ... 13
+14  88.00 ms kc1-teng2-12.net.ohio-state.edu (164.107.1.1)
+
+Nmap scan report for 164.107.1.2
+Host is up (0.074s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  57.00 ms 164.107.1.2
+
+Nmap scan report for kc6-teng8-8.net.ohio-state.edu (164.107.1.5)
+Host is up (0.061s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  62.00 ms kc6-teng8-8.net.ohio-state.edu (164.107.1.5)
+
+Nmap scan report for 164.107.1.6
+Host is up (0.069s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  62.00 ms 164.107.1.6
+
+Nmap scan report for 164.107.1.9
+Host is up (0.065s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  61.00 ms 164.107.1.9
+
+Nmap scan report for 164.107.1.10
+Host is up (0.066s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  69.00 ms 164.107.1.10
+
+Nmap scan report for 164.107.1.13
+Host is up (0.060s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  61.00 ms 164.107.1.13
+
+Nmap scan report for 164.107.1.14
+Host is up (0.094s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  61.00 ms 164.107.1.14
+
+Nmap scan report for 164.107.1.17
+Host is up (0.054s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  57.00 ms 164.107.1.17
+
+Nmap scan report for 164.107.1.18
+Host is up (0.059s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  76.00 ms 164.107.1.18
+
+Nmap scan report for tc1-teng2-6.net.ohio-state.edu (164.107.1.33)
+Host is up (0.067s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 14
+15  61.00 ms tc1-teng2-6.net.ohio-state.edu (164.107.1.33)
+
+Nmap scan report for 164.107.1.34
+Host is up (0.11s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  61.00 ms 164.107.1.34
+
+Nmap scan report for tc4-teng8-8.net.ohio-state.edu (164.107.1.37)
+Host is up (0.058s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  61.00 ms tc4-teng8-8.net.ohio-state.edu (164.107.1.37)
+
+Nmap scan report for 164.107.1.38
+Host is up (0.064s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  67.00 ms 164.107.1.38
+
+Nmap scan report for 164.107.1.45
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  54.00 ms 164.107.1.45
+
+Nmap scan report for 164.107.1.46
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  78.00 ms 164.107.1.46
+
+Nmap scan report for 164.107.1.49
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  61.00 ms 164.107.1.49
+
+Nmap scan report for 164.107.1.50
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 17
+18  63.00 ms 164.107.1.50
+
+Nmap scan report for tc-dc2a-vl1516.net.ohio-state.edu (164.107.1.61)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  61.00 ms tc-dc2a-vl1516.net.ohio-state.edu (164.107.1.61)
+
+Nmap scan report for 164.107.1.65
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  61.00 ms 164.107.1.65
+
+Nmap scan report for tc-dc2a-vl1519.net.ohio-state.edu (164.107.1.66)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  60.00 ms tc-dc2a-vl1519.net.ohio-state.edu (164.107.1.66)
+
+Nmap scan report for tc-dc-fw-admin.net.ohio-state.edu (164.107.1.68)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 17
+18  70.00 ms tc-dc-fw-admin.net.ohio-state.edu (164.107.1.68)
+
+Nmap scan report for tc-dc-fw-admin-stby.net.ohio-state.edu (164.107.1.69)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 17
+18  61.00 ms tc-dc-fw-admin-stby.net.ohio-state.edu (164.107.1.69)
+
+Nmap scan report for kc7-vl2040.net.ohio-state.edu (164.107.1.73)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  59.00 ms kc7-vl2040.net.ohio-state.edu (164.107.1.73)
+
+Nmap scan report for fw-kc7-admin.net.ohio-state.edu (164.107.1.75)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  60.00 ms fw-kc7-admin.net.ohio-state.edu (164.107.1.75)
+
+Nmap scan report for se7-vl2050.net.ohio-state.edu (164.107.1.81)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  64.00 ms se7-vl2050.net.ohio-state.edu (164.107.1.81)
+
+Nmap scan report for fw-se7-admin.net.ohio-state.edu (164.107.1.83)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  60.00 ms fw-se7-admin.net.ohio-state.edu (164.107.1.83)
+
+Nmap scan report for kc6-vl581.net.ohio-state.edu (164.107.1.89)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  63.00 ms kc6-vl581.net.ohio-state.edu (164.107.1.89)
+
+Nmap scan report for kc7-vl581.net.ohio-state.edu (164.107.1.90)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  65.00 ms kc7-vl581.net.ohio-state.edu (164.107.1.90)
+
+Nmap scan report for kc6-vl2060.net.ohio-state.edu (164.107.1.93)
+Host is up (0.058s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  61.00 ms kc6-vl2060.net.ohio-state.edu (164.107.1.93)
+
+Nmap scan report for kc7-vl2060.net.ohio-state.edu (164.107.1.94)
+Host is up (0.12s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  65.00 ms kc7-vl2060.net.ohio-state.edu (164.107.1.94)
+
+Nmap scan report for se4-vl51.net.ohio-state.edu (164.107.1.97)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  62.00 ms se4-vl51.net.ohio-state.edu (164.107.1.97)
+
+Nmap scan report for se7-vl51.net.ohio-state.edu (164.107.1.98)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  63.00 ms se7-vl51.net.ohio-state.edu (164.107.1.98)
+
+Nmap scan report for se4-vl2061.net.ohio-state.edu (164.107.1.101)
+Host is up (0.21s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 18
+19  66.00 ms se4-vl2061.net.ohio-state.edu (164.107.1.101)
+
+Nmap scan report for se7-vl2061.net.ohio-state.edu (164.107.1.102)
+Host is up (0.21s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 19
+20  71.00 ms se7-vl2061.net.ohio-state.edu (164.107.1.102)
+
+Nmap scan report for kc6-vl2042.net.ohio-state.edu (164.107.1.105)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  59.00 ms kc6-vl2042.net.ohio-state.edu (164.107.1.105)
+
+Nmap scan report for kc7-vl2043.net.ohio-state.edu (164.107.1.106)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  70.00 ms kc7-vl2043.net.ohio-state.edu (164.107.1.106)
+
+Nmap scan report for fw-kc7-student.net.ohio-state.edu (164.107.1.107)
+Host is up (0.12s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  83.00 ms fw-kc7-student.net.ohio-state.edu (164.107.1.107)
+
+Nmap scan report for se4-vl2052.net.ohio-state.edu (164.107.1.113)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  64.00 ms se4-vl2052.net.ohio-state.edu (164.107.1.113)
+
+Nmap scan report for se7-vl2053.net.ohio-state.edu (164.107.1.114)
+Host is up (0.086s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  70.00 ms se7-vl2053.net.ohio-state.edu (164.107.1.114)
+
+Nmap scan report for fw-se7-student.net.ohio-state.edu (164.107.1.115)
+Host is up (0.067s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  59.00 ms fw-se7-student.net.ohio-state.edu (164.107.1.115)
+
+Nmap scan report for tc1-teng1-6.net.ohio-state.edu (164.107.1.125)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  56.00 ms tc1-teng1-6.net.ohio-state.edu (164.107.1.125)
+
+Nmap scan report for tc-dc2b-teng3-1.net.ohio-state.edu (164.107.1.126)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  66.00 ms tc-dc2b-teng3-1.net.ohio-state.edu (164.107.1.126)
+
+Nmap scan report for kc1-teng1-12.net.ohio-state.edu (164.107.1.193)
+Host is up (0.081s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 13
+14  137.00 ms kc1-teng1-12.net.ohio-state.edu (164.107.1.193)
+
+Nmap scan report for socc-dc2a-l0.net.ohio-state.edu (164.107.1.194)
+Host is up (0.070s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  57.00 ms socc-dc2a-l0.net.ohio-state.edu (164.107.1.194)
+
+Nmap scan report for 164.107.1.196
+Host is up (0.27s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  66.00 ms 164.107.1.196
+
+Nmap scan report for kc5.net.ohio-state.edu (164.107.1.198)
+Host is up (0.060s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 14
+15  62.00 ms kc5.net.ohio-state.edu (164.107.1.198)
+
+Nmap scan report for 164.107.1.201
+Host is up (0.098s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  65.00 ms 164.107.1.201
+
+Nmap scan report for socc-dc2b-vl1512.net.ohio-state.edu (164.107.1.202)
+Host is up (0.070s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  64.00 ms socc-dc2b-vl1512.net.ohio-state.edu (164.107.1.202)
+
+Nmap scan report for 164.107.1.203
+Host is up (0.080s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  68.00 ms 164.107.1.203
+
+Nmap scan report for socc-dc-fw-admin.net.ohio-state.edu (164.107.1.204)
+Host is up (0.081s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  64.00 ms socc-dc-fw-admin.net.ohio-state.edu (164.107.1.204)
+
+Nmap scan report for socc-dc-fw-admin-stby.net.ohio-state.edu (164.107.1.205)
+Host is up (0.10s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  78.00 ms socc-dc-fw-admin-stby.net.ohio-state.edu (164.107.1.205)
+
+Nmap scan report for kc6-vl2066.net.ohio-state.edu (164.107.1.209)
+Host is up (0.067s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  66.00 ms kc6-vl2066.net.ohio-state.edu (164.107.1.209)
+
+Nmap scan report for kc7-vl2066.net.ohio-state.edu (164.107.1.210)
+Host is up (0.066s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  63.00 ms kc7-vl2066.net.ohio-state.edu (164.107.1.210)
+
+Nmap scan report for se4-vl2067.net.ohio-state.edu (164.107.1.213)
+Host is up (0.067s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 18
+19  74.00 ms se4-vl2067.net.ohio-state.edu (164.107.1.213)
+
+Nmap scan report for se7-vl2067.net.ohio-state.edu (164.107.1.214)
+Host is up (0.095s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 19
+20  65.00 ms se7-vl2067.net.ohio-state.edu (164.107.1.214)
+
+Nmap scan report for man1-lo0.net.ohio-state.edu (164.107.2.1)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  80.00 ms man1-lo0.net.ohio-state.edu (164.107.2.1)
+
+Nmap scan report for sf1-lo0.net.ohio-state.edu (164.107.2.2)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  61.00 ms sf1-lo0.net.ohio-state.edu (164.107.2.2)
+
+Nmap scan report for tc4-lo0.net.ohio-state.edu (164.107.2.3)
+Host is up (0.079s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  61.00 ms tc4-lo0.net.ohio-state.edu (164.107.2.3)
+
+Nmap scan report for cx1-lo0.net.ohio-state.edu (164.107.2.4)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  71.00 ms cx1-lo0.net.ohio-state.edu (164.107.2.4)
+
+Nmap scan report for tc2-lo0.net.ohio-state.edu (164.107.2.5)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 15
+16  58.00 ms tc2-lo0.net.ohio-state.edu (164.107.2.5)
+
+Nmap scan report for kc3-lo1.net.ohio-state.edu (164.107.2.6)
+Host is up (0.067s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 12
+13  58.00 ms kc3-lo1.net.ohio-state.edu (164.107.2.6)
+
+Nmap scan report for knight1-lo0.net.ohio-state.edu (164.107.2.7)
+Host is up (0.098s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 16
+17  68.00 ms knight1-lo0.net.ohio-state.edu (164.107.2.7)
+
+Nmap scan report for kc3-lo0.net.ohio-state.edu (164.107.2.8)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.1.1
+2   ... 12
+13  54.00 ms kc3-lo0.net.ohio-state.edu (164.107.2.8)
+
+Nmap scan report for cuy1-lo0.net.ohio-state.edu (164.107.2.9)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  70.00 ms cuy1-lo0.net.ohio-state.edu (164.107.2.9)
+
+Nmap scan report for se3-lo0.net.ohio-state.edu (164.107.2.10)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  55.00 ms se3-lo0.net.ohio-state.edu (164.107.2.10)
+
+Nmap scan report for kc6-lo0.net.ohio-state.edu (164.107.2.11)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  54.00 ms kc6-lo0.net.ohio-state.edu (164.107.2.11)
+
+Nmap scan report for new1-lo0.net.ohio-state.edu (164.107.2.12)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  64.00 ms new1-lo0.net.ohio-state.edu (164.107.2.12)
+
+Nmap scan report for kc2-lo0.net.ohio-state.edu (164.107.2.13)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  68.00 ms kc2-lo0.net.ohio-state.edu (164.107.2.13)
+
+Nmap scan report for lazarus1-lo0.net.ohio-state.edu (164.107.2.14)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  68.00 ms lazarus1-lo0.net.ohio-state.edu (164.107.2.14)
+
+Nmap scan report for tc6-lo0.net.ohio-state.edu (164.107.2.15)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   1.00 ms  192.168.0.1
+2   ... 13
+14  74.00 ms tc6-lo0.net.ohio-state.edu (164.107.2.15)
+
+Nmap scan report for kc6-teng8-4.net.ohio-state.edu (164.107.2.17)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  60.00 ms kc6-teng8-4.net.ohio-state.edu (164.107.2.17)
+
+Nmap scan report for kc1-teng1-14.net.ohio-state.edu (164.107.2.18)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 13
+14  66.00 ms kc1-teng1-14.net.ohio-state.edu (164.107.2.18)
+
+Nmap scan report for wsu-l0.net.ohio-state.edu (164.107.2.20)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  63.00 ms wsu-l0.net.ohio-state.edu (164.107.2.20)
+
+Nmap scan report for tc1-lo0.net.ohio-state.edu (164.107.2.21)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  59.00 ms tc1-lo0.net.ohio-state.edu (164.107.2.21)
+
+Nmap scan report for mar1-lo0.net.ohio-state.edu (164.107.2.22)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  68.00 ms mar1-lo0.net.ohio-state.edu (164.107.2.22)
+
+Nmap scan report for kc1-lo0.net.ohio-state.edu (164.107.2.23)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 13
+14  76.00 ms kc1-lo0.net.ohio-state.edu (164.107.2.23)
+
+Nmap scan report for kc6-teng8-6.net.ohio-state.edu (164.107.2.25)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  64.00 ms kc6-teng8-6.net.ohio-state.edu (164.107.2.25)
+
+Nmap scan report for socc-dc2b-teng3-1.net.ohio-state.edu (164.107.2.26)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  58.00 ms socc-dc2b-teng3-1.net.ohio-state.edu (164.107.2.26)
+
+Nmap scan report for lima1-lo0.net.ohio-state.edu (164.107.2.28)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  73.00 ms lima1-lo0.net.ohio-state.edu (164.107.2.28)
+
+Nmap scan report for se4-lo0.net.ohio-state.edu (164.107.2.29)
+Host is up (0.24s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  76.00 ms se4-lo0.net.ohio-state.edu (164.107.2.29)
+
+Nmap scan report for dsa1-lo0.net.ohio-state.edu (164.107.2.30)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  61.00 ms dsa1-lo0.net.ohio-state.edu (164.107.2.30)
+
+Nmap scan report for summit1445-lo0.net.ohio-state.edu (164.107.2.31)
+Host is up (0.30s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  61.00 ms summit1445-lo0.net.ohio-state.edu (164.107.2.31)
+
+Nmap scan report for 164.107.2.32
+Host is up (0.29s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  59.00 ms 164.107.2.32
+
+Nmap scan report for fsr1-lo0.net.ohio-state.edu (164.107.2.33)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  63.00 ms fsr1-lo0.net.ohio-state.edu (164.107.2.33)
+
+Nmap scan report for oardc1-lo0.net.ohio-state.edu (164.107.2.34)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  64.00 ms oardc1-lo0.net.ohio-state.edu (164.107.2.34)
+
+Nmap scan report for kc6-lo1.net.ohio-state.edu (164.107.2.35)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  76.00 ms kc6-lo1.net.ohio-state.edu (164.107.2.35)
+
+Nmap scan report for tc4-teng8-6.net.ohio-state.edu (164.107.2.37)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  58.00 ms tc4-teng8-6.net.ohio-state.edu (164.107.2.37)
+
+Nmap scan report for tc-dc2a-teng3-1.net.ohio-state.edu (164.107.2.38)
+Host is up (0.29s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  70.00 ms tc-dc2a-teng3-1.net.ohio-state.edu (164.107.2.38)
+
+Nmap scan report for tc2-ser0-1-4c0.net.ohio-state.edu (164.107.2.41)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  63.00 ms tc2-ser0-1-4c0.net.ohio-state.edu (164.107.2.41)
+
+Nmap scan report for taylor211.net.ohio-state.edu (164.107.2.42)
+Host is up (0.29s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  71.00 ms taylor211.net.ohio-state.edu (164.107.2.42)
+
+Nmap scan report for tc2-gig0-0-3s1709.net.ohio-state.edu (164.107.2.45)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  59.00 ms tc2-gig0-0-3s1709.net.ohio-state.edu (164.107.2.45)
+
+Nmap scan report for tennis1-fa0-1.net.ohio-state.edu (164.107.2.46)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  59.00 ms tennis1-fa0-1.net.ohio-state.edu (164.107.2.46)
+
+Nmap scan report for pres1-lo0.net.ohio-state.edu (164.107.2.48)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  65.00 ms pres1-lo0.net.ohio-state.edu (164.107.2.48)
+
+Nmap scan report for socc-dc2b-lo0.net.ohio-state.edu (164.107.2.49)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  56.00 ms socc-dc2b-lo0.net.ohio-state.edu (164.107.2.49)
+
+Nmap scan report for tennis1-lo0.net.ohio-state.edu (164.107.2.51)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  75.00 ms tennis1-lo0.net.ohio-state.edu (164.107.2.51)
+
+Nmap scan report for tc2-gig0-0-3s1710.net.ohio-state.edu (164.107.2.53)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  65.00 ms tc2-gig0-0-3s1710.net.ohio-state.edu (164.107.2.53)
+
+Nmap scan report for cx1-fa0-0.net.ohio-state.edu (164.107.2.54)
+Host is up (0.27s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  63.00 ms cx1-fa0-0.net.ohio-state.edu (164.107.2.54)
+
+Nmap scan report for tc2-mul2.net.ohio-state.edu (164.107.2.57)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  62.00 ms tc2-mul2.net.ohio-state.edu (164.107.2.57)
+
+Nmap scan report for knight1-mul2.net.ohio-state.edu (164.107.2.58)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  61.00 ms knight1-mul2.net.ohio-state.edu (164.107.2.58)
+
+Nmap scan report for tc2-gig0-0-3s1708.net.ohio-state.edu (164.107.2.61)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  64.00 ms tc2-gig0-0-3s1708.net.ohio-state.edu (164.107.2.61)
+
+Nmap scan report for sf1-fa0-1.net.ohio-state.edu (164.107.2.62)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  68.00 ms sf1-fa0-1.net.ohio-state.edu (164.107.2.62)
+
+Nmap scan report for kc2-gig0-0-3s349.net.ohio-state.edu (164.107.2.65)
+Host is up (0.067s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  57.00 ms kc2-gig0-0-3s349.net.ohio-state.edu (164.107.2.65)
+
+Nmap scan report for mar1-gig0-0-0s349.net.ohio-state.edu (164.107.2.66)
+Host is up (0.082s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  85.00 ms mar1-gig0-0-0s349.net.ohio-state.edu (164.107.2.66)
+
+Nmap scan report for tc2-gig0-0-3s1701.net.ohio-state.edu (164.107.2.69)
+Host is up (0.093s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  64.00 ms tc2-gig0-0-3s1701.net.ohio-state.edu (164.107.2.69)
+
+Nmap scan report for lima1-ser1-0.net.ohio-state.edu (164.107.2.70)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  65.00 ms lima1-ser1-0.net.ohio-state.edu (164.107.2.70)
+
+Nmap scan report for kc2-gig0-0-3s348.net.ohio-state.edu (164.107.2.73)
+Host is up (0.10s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  71.00 ms kc2-gig0-0-3s348.net.ohio-state.edu (164.107.2.73)
+
+Nmap scan report for new1-gig0-0-0s348.net.ohio-state.edu (164.107.2.74)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  66.00 ms new1-gig0-0-0s348.net.ohio-state.edu (164.107.2.74)
+
+Nmap scan report for tc2-gig0-0-3s1711.net.ohio-state.edu (164.107.2.77)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  67.00 ms tc2-gig0-0-3s1711.net.ohio-state.edu (164.107.2.77)
+
+Nmap scan report for dsa1-gig0-3.net.ohio-state.edu (164.107.2.78)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  64.00 ms dsa1-gig0-3.net.ohio-state.edu (164.107.2.78)
+
+Nmap scan report for tc1-forg1-4.net.ohio-state.edu (164.107.2.81)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  64.00 ms tc1-forg1-4.net.ohio-state.edu (164.107.2.81)
+
+Nmap scan report for kc1-forg2-4.net.ohio-state.edu (164.107.2.82)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 13
+14  64.00 ms kc1-forg2-4.net.ohio-state.edu (164.107.2.82)
+
+Nmap scan report for tc2-gig0-0-3s1705.net.ohio-state.edu (164.107.2.85)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  54.00 ms tc2-gig0-0-3s1705.net.ohio-state.edu (164.107.2.85)
+
+Nmap scan report for gh1-fa0-1.net.ohio-state.edu (164.107.2.86)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  60.00 ms gh1-fa0-1.net.ohio-state.edu (164.107.2.86)
+
+Nmap scan report for 164.107.2.89
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  55.00 ms 164.107.2.89
+
+Nmap scan report for tctest-asr1002.net.ohio-state.edu (164.107.2.90)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  58.00 ms tctest-asr1002.net.ohio-state.edu (164.107.2.90)
+
+Nmap scan report for tc2-gig0-0-3s1706.net.ohio-state.edu (164.107.2.93)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  61.00 ms tc2-gig0-0-3s1706.net.ohio-state.edu (164.107.2.93)
+
+Nmap scan report for pres1-fa0-1.net.ohio-state.edu (164.107.2.94)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  67.00 ms pres1-fa0-1.net.ohio-state.edu (164.107.2.94)
+
+Nmap scan report for tc2-gig0-0-3s1707.net.ohio-state.edu (164.107.2.101)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  77.00 ms tc2-gig0-0-3s1707.net.ohio-state.edu (164.107.2.101)
+
+Nmap scan report for lazarus1-fa0-1.net.ohio-state.edu (164.107.2.102)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 16
+17  65.00 ms lazarus1-fa0-1.net.ohio-state.edu (164.107.2.102)
+
+Nmap scan report for kc2-gig0-0-3s347.net.ohio-state.edu (164.107.2.105)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  66.00 ms kc2-gig0-0-3s347.net.ohio-state.edu (164.107.2.105)
+
+Nmap scan report for lima1-gig0-0-0s347.net.ohio-state.edu (164.107.2.106)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 15
+16  68.00 ms lima1-gig0-0-0s347.net.ohio-state.edu (164.107.2.106)
+
+Nmap scan report for tc2-gig0-0-3s1846.net.ohio-state.edu (164.107.2.109)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  64.00 ms tc2-gig0-0-3s1846.net.ohio-state.edu (164.107.2.109)
+
+Nmap scan report for oardc1-gig0-0-0s1846.net.ohio-state.edu (164.107.2.110)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  61.00 ms oardc1-gig0-0-0s1846.net.ohio-state.edu (164.107.2.110)
+
+Nmap scan report for tc1-gig5-45.net.ohio-state.edu (164.107.2.113)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  114.00 ms tc1-gig5-45.net.ohio-state.edu (164.107.2.113)
+
+Nmap scan report for tc2-gig0-0-0.net.ohio-state.edu (164.107.2.114)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  57.00 ms tc2-gig0-0-0.net.ohio-state.edu (164.107.2.114)
+
+Nmap scan report for tc1-vl812.net.ohio-state.edu (164.107.2.117)
+Host is up (0.068s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.15
+2   ... 14
+15  102.00 ms tc1-vl812.net.ohio-state.edu (164.107.2.117)
+
+Nmap scan report for 164.107.2.118
+Host is up (0.070s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  57.00 ms 164.107.2.118
+
+Nmap scan report for tc2-gig0-0-3s1847.net.ohio-state.edu (164.107.2.121)
+Host is up (0.21s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  402.00 ms tc2-gig0-0-3s1847.net.ohio-state.edu (164.107.2.121)
+
+Nmap scan report for lima1-gig0-0-0s1847.net.ohio-state.edu (164.107.2.122)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  438.00 ms lima1-gig0-0-0s1847.net.ohio-state.edu (164.107.2.122)
+
+Nmap scan report for tc4-gig4-25.net.ohio-state.edu (164.107.2.125)
+Host is up (0.24s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  390.00 ms tc4-gig4-25.net.ohio-state.edu (164.107.2.125)
+
+Nmap scan report for tc2-gig0-0-2.net.ohio-state.edu (164.107.2.126)
+Host is up (0.22s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  435.00 ms tc2-gig0-0-2.net.ohio-state.edu (164.107.2.126)
+
+Nmap scan report for adc1-lo0.net.ohio-state.edu (164.107.2.132)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  446.00 ms adc1-lo0.net.ohio-state.edu (164.107.2.132)
+
+Nmap scan report for tc-dc2a-lo0.net.ohio-state.edu (164.107.2.133)
+Host is up (0.24s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  446.00 ms tc-dc2a-lo0.net.ohio-state.edu (164.107.2.133)
+
+Nmap scan report for tctest1.net.ohio-state.edu (164.107.2.134)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  242.00 ms tctest1.net.ohio-state.edu (164.107.2.134)
+
+Nmap scan report for dvm1-lo0.net.ohio-state.edu (164.107.2.135)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  448.00 ms dvm1-lo0.net.ohio-state.edu (164.107.2.135)
+
+Nmap scan report for kc7-lo0.net.ohio-state.edu (164.107.2.136)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  82.00 ms kc7-lo0.net.ohio-state.edu (164.107.2.136)
+
+Nmap scan report for se7-lo0.net.ohio-state.edu (164.107.2.137)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  65.00 ms se7-lo0.net.ohio-state.edu (164.107.2.137)
+
+Nmap scan report for jackson1-lo0.net.ohio-state.edu (164.107.2.139)
+Host is up (0.12s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 16
+17  406.00 ms jackson1-lo0.net.ohio-state.edu (164.107.2.139)
+
+Nmap scan report for tc1-vl823.net.ohio-state.edu (164.107.2.141)
+Host is up (0.22s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 18
+19  58.00 ms tc1-vl823.net.ohio-state.edu (164.107.2.141)
+
+Nmap scan report for 164.107.2.142
+Host is up (0.22s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 19
+20  60.00 ms 164.107.2.142
+
+Nmap scan report for kc1-vl589.net.ohio-state.edu (164.107.2.145)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 17
+18  150.00 ms kc1-vl589.net.ohio-state.edu (164.107.2.145)
+
+Nmap scan report for adc1-gig0-2s2208.net.ohio-state.edu (164.107.2.146)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 18
+19  62.00 ms adc1-gig0-2s2208.net.ohio-state.edu (164.107.2.146)
+
+Nmap scan report for kc1-forg2-3.net.ohio-state.edu (164.107.2.149)
+Host is up (0.29s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   1.00 ms   192.168.0.1
+2   ... 13
+14  475.00 ms kc1-forg2-3.net.ohio-state.edu (164.107.2.149)
+
+Nmap scan report for se4-forg2-4.net.ohio-state.edu (164.107.2.150)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  59.00 ms se4-forg2-4.net.ohio-state.edu (164.107.2.150)
+
+Nmap scan report for kc6-teng8-1.net.ohio-state.edu (164.107.2.153)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  62.00 ms kc6-teng8-1.net.ohio-state.edu (164.107.2.153)
+
+Nmap scan report for se3-teng7-2.net.ohio-state.edu (164.107.2.154)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  91.00 ms se3-teng7-2.net.ohio-state.edu (164.107.2.154)
+
+Nmap scan report for kc6-teng8-3.net.ohio-state.edu (164.107.2.157)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  72.00 ms kc6-teng8-3.net.ohio-state.edu (164.107.2.157)
+
+Nmap scan report for tc4-teng8-1.net.ohio-state.edu (164.107.2.158)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  81.00 ms tc4-teng8-1.net.ohio-state.edu (164.107.2.158)
+
+Nmap scan report for tc4-teng8-4.net.ohio-state.edu (164.107.2.161)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  75.00 ms tc4-teng8-4.net.ohio-state.edu (164.107.2.161)
+
+Nmap scan report for tc1-teng7-4.net.ohio-state.edu (164.107.2.162)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  114.00 ms tc1-teng7-4.net.ohio-state.edu (164.107.2.162)
+
+Nmap scan report for tc2-ser0-1-2c0.net.ohio-state.edu (164.107.2.165)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  86.00 ms tc2-ser0-1-2c0.net.ohio-state.edu (164.107.2.165)
+
+Nmap scan report for caldwell1-ser0-3-0.net.ohio-state.edu (164.107.2.166)
+Host is up (0.10s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  75.00 ms caldwell1-ser0-3-0.net.ohio-state.edu (164.107.2.166)
+
+Nmap scan report for tc2-gig0-0-3s1848.net.ohio-state.edu (164.107.2.169)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  82.00 ms tc2-gig0-0-3s1848.net.ohio-state.edu (164.107.2.169)
+
+Nmap scan report for new1-gig0-0-0s1848.net.ohio-state.edu (164.107.2.170)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  63.00 ms new1-gig0-0-0s1848.net.ohio-state.edu (164.107.2.170)
+
+Nmap scan report for tc2-ser0-1-0c0.net.ohio-state.edu (164.107.2.173)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  79.00 ms tc2-ser0-1-0c0.net.ohio-state.edu (164.107.2.173)
+
+Nmap scan report for jackson1-ser0-1-0.net.ohio-state.edu (164.107.2.174)
+Host is up (0.21s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  70.00 ms jackson1-ser0-1-0.net.ohio-state.edu (164.107.2.174)
+
+Nmap scan report for tc2-gig0-0-3s1713.net.ohio-state.edu (164.107.2.177)
+Host is up (0.070s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  63.00 ms tc2-gig0-0-3s1713.net.ohio-state.edu (164.107.2.177)
+
+Nmap scan report for 164.107.2.178
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  61.00 ms 164.107.2.178
+
+Nmap scan report for tc2-ser0-1-1c0.net.ohio-state.edu (164.107.2.181)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  65.00 ms tc2-ser0-1-1c0.net.ohio-state.edu (164.107.2.181)
+
+Nmap scan report for adc1-ser1-0c0.net.ohio-state.edu (164.107.2.182)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  58.00 ms adc1-ser1-0c0.net.ohio-state.edu (164.107.2.182)
+
+Nmap scan report for se3-teng7-3.net.ohio-state.edu (164.107.2.185)
+Host is up (0.066s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  63.00 ms se3-teng7-3.net.ohio-state.edu (164.107.2.185)
+
+Nmap scan report for tc4-teng8-2.net.ohio-state.edu (164.107.2.186)
+Host is up (0.29s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  66.00 ms tc4-teng8-2.net.ohio-state.edu (164.107.2.186)
+
+Nmap scan report for se4-forg2-3.net.ohio-state.edu (164.107.2.189)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  67.00 ms se4-forg2-3.net.ohio-state.edu (164.107.2.189)
+
+Nmap scan report for tc1-forg2-4.net.ohio-state.edu (164.107.2.190)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  56.00 ms tc1-forg2-4.net.ohio-state.edu (164.107.2.190)
+
+Nmap scan report for kc3-teng1-1.net.ohio-state.edu (164.107.2.193)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 12
+13  59.00 ms kc3-teng1-1.net.ohio-state.edu (164.107.2.193)
+
+Nmap scan report for kc1-teng1-20.net.ohio-state.edu (164.107.2.194)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 13
+14  140.00 ms kc1-teng1-20.net.ohio-state.edu (164.107.2.194)
+
+Nmap scan report for kc6-gig4-25.net.ohio-state.edu (164.107.2.201)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  61.00 ms kc6-gig4-25.net.ohio-state.edu (164.107.2.201)
+
+Nmap scan report for kc2-gig0-0-0.net.ohio-state.edu (164.107.2.202)
+Host is up (0.32s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  62.00 ms kc2-gig0-0-0.net.ohio-state.edu (164.107.2.202)
+
+Nmap scan report for tc2-gig0-0-3s1704.net.ohio-state.edu (164.107.2.205)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  64.00 ms tc2-gig0-0-3s1704.net.ohio-state.edu (164.107.2.205)
+
+Nmap scan report for fsr1-fa0-0.net.ohio-state.edu (164.107.2.206)
+Host is up (0.35s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  64.00 ms fsr1-fa0-0.net.ohio-state.edu (164.107.2.206)
+
+Nmap scan report for kc1-gig5-47.net.ohio-state.edu (164.107.2.209)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 13
+14  55.00 ms kc1-gig5-47.net.ohio-state.edu (164.107.2.209)
+
+Nmap scan report for kc2-gig0-0-2.net.ohio-state.edu (164.107.2.210)
+Host is up (0.28s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  57.00 ms kc2-gig0-0-2.net.ohio-state.edu (164.107.2.210)
+
+Nmap scan report for kc2-gig0-0-3s350.net.ohio-state.edu (164.107.2.213)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  53.00 ms kc2-gig0-0-3s350.net.ohio-state.edu (164.107.2.213)
+
+Nmap scan report for man1-gig0-0-0s350.net.ohio-state.edu (164.107.2.214)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  67.00 ms man1-gig0-0-0s350.net.ohio-state.edu (164.107.2.214)
+
+Nmap scan report for kc3-teng1-3.net.ohio-state.edu (164.107.2.217)
+Host is up (0.17s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 12
+13  69.00 ms kc3-teng1-3.net.ohio-state.edu (164.107.2.217)
+
+Nmap scan report for tc6-teng2-2.net.ohio-state.edu (164.107.2.218)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 13
+14  60.00 ms tc6-teng2-2.net.ohio-state.edu (164.107.2.218)
+
+Nmap scan report for se3-teng7-1.net.ohio-state.edu (164.107.2.221)
+Host is up (0.21s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  72.00 ms se3-teng7-1.net.ohio-state.edu (164.107.2.221)
+
+Nmap scan report for se4-teng7-1.net.ohio-state.edu (164.107.2.222)
+Host is up (0.22s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  60.00 ms se4-teng7-1.net.ohio-state.edu (164.107.2.222)
+
+Nmap scan report for kc3-teng1-4s1720.net.ohio-state.edu (164.107.2.225)
+Host is up (0.068s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 12
+13  59.00 ms kc3-teng1-4s1720.net.ohio-state.edu (164.107.2.225)
+
+Nmap scan report for 164.107.2.226
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 13
+14  69.00 ms 164.107.2.226
+
+Nmap scan report for tc2-gig0-0-3s1849.net.ohio-state.edu (164.107.2.229)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  60.00 ms tc2-gig0-0-3s1849.net.ohio-state.edu (164.107.2.229)
+
+Nmap scan report for mar1-gig0-0-0s1849.net.ohio-state.edu (164.107.2.230)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  76.00 ms mar1-gig0-0-0s1849.net.ohio-state.edu (164.107.2.230)
+
+Nmap scan report for kc2-gig0-0-3s346.net.ohio-state.edu (164.107.2.233)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  62.00 ms kc2-gig0-0-3s346.net.ohio-state.edu (164.107.2.233)
+
+Nmap scan report for oardc1-gig0-0-0s346.net.ohio-state.edu (164.107.2.234)
+Host is up (0.21s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  74.00 ms oardc1-gig0-0-0s346.net.ohio-state.edu (164.107.2.234)
+
+Nmap scan report for tc6-teng2-4s1721.net.ohio-state.edu (164.107.2.237)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 13
+14  54.00 ms tc6-teng2-4s1721.net.ohio-state.edu (164.107.2.237)
+
+Nmap scan report for 164.107.2.238
+Host is up (0.22s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 14
+15  61.00 ms 164.107.2.238
+
+Nmap scan report for tc2-gig0-0-3s1703.net.ohio-state.edu (164.107.2.241)
+Host is up (0.060s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  70.00 ms tc2-gig0-0-3s1703.net.ohio-state.edu (164.107.2.241)
+
+Nmap scan report for adc1-gig0-3.net.ohio-state.edu (164.107.2.242)
+Host is up (0.27s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 16
+17  57.00 ms adc1-gig0-3.net.ohio-state.edu (164.107.2.242)
+
+Nmap scan report for tc2-gig0-0-3s1700.net.ohio-state.edu (164.107.2.245)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  60.00 ms tc2-gig0-0-3s1700.net.ohio-state.edu (164.107.2.245)
+
+Nmap scan report for 164.107.2.246
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 16
+17  70.00 ms 164.107.2.246
+
+Nmap scan report for tc2-gig0-0-3s1850.net.ohio-state.edu (164.107.2.249)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.149
+2   ... 15
+16  68.00 ms tc2-gig0-0-3s1850.net.ohio-state.edu (164.107.2.249)
+
+Nmap scan report for man1-gig0-0-0s1850.net.ohio-state.edu (164.107.2.250)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.254
+2   ... 16
+17  63.00 ms man1-gig0-0-0s1850.net.ohio-state.edu (164.107.2.250)
+
+Nmap scan report for tc1-teng7-2.net.ohio-state.edu (164.107.2.253)
+Host is up (0.080s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.2.254
+2   ... 14
+15  70.00 ms tc1-teng7-2.net.ohio-state.edu (164.107.2.253)
+
+Nmap scan report for tc6-teng2-1.net.ohio-state.edu (164.107.2.254)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   3.00 ms   192.168.0.1
+2   ... 13
+14  156.00 ms tc6-teng2-1.net.ohio-state.edu (164.107.2.254)
+
+Nmap done: 768 IP addresses (195 hosts up) scanned in 913.53 seconds
+</output><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.1"></address><hostnames><hostname type="PTR" name="kc1-teng2-12.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="88.00" host="kc1-teng2-12.net.ohio-state.edu" ipaddr="164.107.1.1" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.2"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="57.00" host="" ipaddr="164.107.1.2" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.5"></address><hostnames><hostname type="PTR" name="kc6-teng8-8.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="kc6-teng8-8.net.ohio-state.edu" ipaddr="164.107.1.5" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.6"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="" ipaddr="164.107.1.6" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.9"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.1.9" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.10"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="69.00" host="" ipaddr="164.107.1.10" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.13"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.1.13" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.14"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.1.14" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.17"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="57.00" host="" ipaddr="164.107.1.17" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.18"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="76.00" host="" ipaddr="164.107.1.18" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.33"></address><hostnames><hostname type="PTR" name="tc1-teng2-6.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="tc1-teng2-6.net.ohio-state.edu" ipaddr="164.107.1.33" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.34"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.1.34" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.37"></address><hostnames><hostname type="PTR" name="tc4-teng8-8.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="tc4-teng8-8.net.ohio-state.edu" ipaddr="164.107.1.37" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.38"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="67.00" host="" ipaddr="164.107.1.38" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.45"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="54.00" host="" ipaddr="164.107.1.45" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.46"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="78.00" host="" ipaddr="164.107.1.46" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.49"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.1.49" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.50"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="" ipaddr="164.107.1.50" ttl="18"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.61"></address><hostnames><hostname type="PTR" name="tc-dc2a-vl1516.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="tc-dc2a-vl1516.net.ohio-state.edu" ipaddr="164.107.1.61" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.65"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.1.65" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.66"></address><hostnames><hostname type="PTR" name="tc-dc2a-vl1519.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="60.00" host="tc-dc2a-vl1519.net.ohio-state.edu" ipaddr="164.107.1.66" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.68"></address><hostnames><hostname type="PTR" name="tc-dc-fw-admin.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="70.00" host="tc-dc-fw-admin.net.ohio-state.edu" ipaddr="164.107.1.68" ttl="18"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.69"></address><hostnames><hostname type="PTR" name="tc-dc-fw-admin-stby.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="tc-dc-fw-admin-stby.net.ohio-state.edu" ipaddr="164.107.1.69" ttl="18"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.73"></address><hostnames><hostname type="PTR" name="kc7-vl2040.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="kc7-vl2040.net.ohio-state.edu" ipaddr="164.107.1.73" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.75"></address><hostnames><hostname type="PTR" name="fw-kc7-admin.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="60.00" host="fw-kc7-admin.net.ohio-state.edu" ipaddr="164.107.1.75" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.81"></address><hostnames><hostname type="PTR" name="se7-vl2050.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="se7-vl2050.net.ohio-state.edu" ipaddr="164.107.1.81" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.83"></address><hostnames><hostname type="PTR" name="fw-se7-admin.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="60.00" host="fw-se7-admin.net.ohio-state.edu" ipaddr="164.107.1.83" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.89"></address><hostnames><hostname type="PTR" name="kc6-vl581.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="kc6-vl581.net.ohio-state.edu" ipaddr="164.107.1.89" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.90"></address><hostnames><hostname type="PTR" name="kc7-vl581.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="kc7-vl581.net.ohio-state.edu" ipaddr="164.107.1.90" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.93"></address><hostnames><hostname type="PTR" name="kc6-vl2060.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="kc6-vl2060.net.ohio-state.edu" ipaddr="164.107.1.93" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.94"></address><hostnames><hostname type="PTR" name="kc7-vl2060.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="kc7-vl2060.net.ohio-state.edu" ipaddr="164.107.1.94" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.97"></address><hostnames><hostname type="PTR" name="se4-vl51.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="se4-vl51.net.ohio-state.edu" ipaddr="164.107.1.97" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.98"></address><hostnames><hostname type="PTR" name="se7-vl51.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="se7-vl51.net.ohio-state.edu" ipaddr="164.107.1.98" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.101"></address><hostnames><hostname type="PTR" name="se4-vl2061.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="66.00" host="se4-vl2061.net.ohio-state.edu" ipaddr="164.107.1.101" ttl="19"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.102"></address><hostnames><hostname type="PTR" name="se7-vl2061.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="71.00" host="se7-vl2061.net.ohio-state.edu" ipaddr="164.107.1.102" ttl="20"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.105"></address><hostnames><hostname type="PTR" name="kc6-vl2042.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="kc6-vl2042.net.ohio-state.edu" ipaddr="164.107.1.105" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.106"></address><hostnames><hostname type="PTR" name="kc7-vl2043.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="70.00" host="kc7-vl2043.net.ohio-state.edu" ipaddr="164.107.1.106" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.107"></address><hostnames><hostname type="PTR" name="fw-kc7-student.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="83.00" host="fw-kc7-student.net.ohio-state.edu" ipaddr="164.107.1.107" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.113"></address><hostnames><hostname type="PTR" name="se4-vl2052.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="se4-vl2052.net.ohio-state.edu" ipaddr="164.107.1.113" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.114"></address><hostnames><hostname type="PTR" name="se7-vl2053.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="70.00" host="se7-vl2053.net.ohio-state.edu" ipaddr="164.107.1.114" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.115"></address><hostnames><hostname type="PTR" name="fw-se7-student.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="fw-se7-student.net.ohio-state.edu" ipaddr="164.107.1.115" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.125"></address><hostnames><hostname type="PTR" name="tc1-teng1-6.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="56.00" host="tc1-teng1-6.net.ohio-state.edu" ipaddr="164.107.1.125" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.126"></address><hostnames><hostname type="PTR" name="tc-dc2b-teng3-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="66.00" host="tc-dc2b-teng3-1.net.ohio-state.edu" ipaddr="164.107.1.126" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.193"></address><hostnames><hostname type="PTR" name="kc1-teng1-12.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="137.00" host="kc1-teng1-12.net.ohio-state.edu" ipaddr="164.107.1.193" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.194"></address><hostnames><hostname type="PTR" name="socc-dc2a-l0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="57.00" host="socc-dc2a-l0.net.ohio-state.edu" ipaddr="164.107.1.194" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.196"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="66.00" host="" ipaddr="164.107.1.196" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.198"></address><hostnames><hostname type="PTR" name="kc5.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="kc5.net.ohio-state.edu" ipaddr="164.107.1.198" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.201"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="65.00" host="" ipaddr="164.107.1.201" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.202"></address><hostnames><hostname type="PTR" name="socc-dc2b-vl1512.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="socc-dc2b-vl1512.net.ohio-state.edu" ipaddr="164.107.1.202" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.203"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="" ipaddr="164.107.1.203" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.204"></address><hostnames><hostname type="PTR" name="socc-dc-fw-admin.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="64.00" host="socc-dc-fw-admin.net.ohio-state.edu" ipaddr="164.107.1.204" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.205"></address><hostnames><hostname type="PTR" name="socc-dc-fw-admin-stby.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="78.00" host="socc-dc-fw-admin-stby.net.ohio-state.edu" ipaddr="164.107.1.205" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.209"></address><hostnames><hostname type="PTR" name="kc6-vl2066.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="66.00" host="kc6-vl2066.net.ohio-state.edu" ipaddr="164.107.1.209" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.210"></address><hostnames><hostname type="PTR" name="kc7-vl2066.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="kc7-vl2066.net.ohio-state.edu" ipaddr="164.107.1.210" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.213"></address><hostnames><hostname type="PTR" name="se4-vl2067.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="74.00" host="se4-vl2067.net.ohio-state.edu" ipaddr="164.107.1.213" ttl="19"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.1.214"></address><hostnames><hostname type="PTR" name="se7-vl2067.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="se7-vl2067.net.ohio-state.edu" ipaddr="164.107.1.214" ttl="20"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.1"></address><hostnames><hostname type="PTR" name="man1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="80.00" host="man1-lo0.net.ohio-state.edu" ipaddr="164.107.2.1" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.2"></address><hostnames><hostname type="PTR" name="sf1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="sf1-lo0.net.ohio-state.edu" ipaddr="164.107.2.2" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.3"></address><hostnames><hostname type="PTR" name="tc4-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="tc4-lo0.net.ohio-state.edu" ipaddr="164.107.2.3" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.4"></address><hostnames><hostname type="PTR" name="cx1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="71.00" host="cx1-lo0.net.ohio-state.edu" ipaddr="164.107.2.4" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.5"></address><hostnames><hostname type="PTR" name="tc2-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="58.00" host="tc2-lo0.net.ohio-state.edu" ipaddr="164.107.2.5" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.6"></address><hostnames><hostname type="PTR" name="kc3-lo1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="58.00" host="kc3-lo1.net.ohio-state.edu" ipaddr="164.107.2.6" ttl="13"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.7"></address><hostnames><hostname type="PTR" name="knight1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="knight1-lo0.net.ohio-state.edu" ipaddr="164.107.2.7" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.8"></address><hostnames><hostname type="PTR" name="kc3-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="54.00" host="kc3-lo0.net.ohio-state.edu" ipaddr="164.107.2.8" ttl="13"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.9"></address><hostnames><hostname type="PTR" name="cuy1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="70.00" host="cuy1-lo0.net.ohio-state.edu" ipaddr="164.107.2.9" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.10"></address><hostnames><hostname type="PTR" name="se3-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="55.00" host="se3-lo0.net.ohio-state.edu" ipaddr="164.107.2.10" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.11"></address><hostnames><hostname type="PTR" name="kc6-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="54.00" host="kc6-lo0.net.ohio-state.edu" ipaddr="164.107.2.11" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.12"></address><hostnames><hostname type="PTR" name="new1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="64.00" host="new1-lo0.net.ohio-state.edu" ipaddr="164.107.2.12" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.13"></address><hostnames><hostname type="PTR" name="kc2-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="kc2-lo0.net.ohio-state.edu" ipaddr="164.107.2.13" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.14"></address><hostnames><hostname type="PTR" name="lazarus1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="68.00" host="lazarus1-lo0.net.ohio-state.edu" ipaddr="164.107.2.14" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.15"></address><hostnames><hostname type="PTR" name="tc6-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="74.00" host="tc6-lo0.net.ohio-state.edu" ipaddr="164.107.2.15" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.17"></address><hostnames><hostname type="PTR" name="kc6-teng8-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="60.00" host="kc6-teng8-4.net.ohio-state.edu" ipaddr="164.107.2.17" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.18"></address><hostnames><hostname type="PTR" name="kc1-teng1-14.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="66.00" host="kc1-teng1-14.net.ohio-state.edu" ipaddr="164.107.2.18" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.20"></address><hostnames><hostname type="PTR" name="wsu-l0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="wsu-l0.net.ohio-state.edu" ipaddr="164.107.2.20" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.21"></address><hostnames><hostname type="PTR" name="tc1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="tc1-lo0.net.ohio-state.edu" ipaddr="164.107.2.21" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.22"></address><hostnames><hostname type="PTR" name="mar1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="mar1-lo0.net.ohio-state.edu" ipaddr="164.107.2.22" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.23"></address><hostnames><hostname type="PTR" name="kc1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="76.00" host="kc1-lo0.net.ohio-state.edu" ipaddr="164.107.2.23" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.25"></address><hostnames><hostname type="PTR" name="kc6-teng8-6.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="kc6-teng8-6.net.ohio-state.edu" ipaddr="164.107.2.25" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.26"></address><hostnames><hostname type="PTR" name="socc-dc2b-teng3-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="58.00" host="socc-dc2b-teng3-1.net.ohio-state.edu" ipaddr="164.107.2.26" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.28"></address><hostnames><hostname type="PTR" name="lima1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="73.00" host="lima1-lo0.net.ohio-state.edu" ipaddr="164.107.2.28" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.29"></address><hostnames><hostname type="PTR" name="se4-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="76.00" host="se4-lo0.net.ohio-state.edu" ipaddr="164.107.2.29" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.30"></address><hostnames><hostname type="PTR" name="dsa1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="dsa1-lo0.net.ohio-state.edu" ipaddr="164.107.2.30" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.31"></address><hostnames><hostname type="PTR" name="summit1445-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="summit1445-lo0.net.ohio-state.edu" ipaddr="164.107.2.31" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.32"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="59.00" host="" ipaddr="164.107.2.32" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.33"></address><hostnames><hostname type="PTR" name="fsr1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="63.00" host="fsr1-lo0.net.ohio-state.edu" ipaddr="164.107.2.33" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.34"></address><hostnames><hostname type="PTR" name="oardc1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="oardc1-lo0.net.ohio-state.edu" ipaddr="164.107.2.34" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.35"></address><hostnames><hostname type="PTR" name="kc6-lo1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="76.00" host="kc6-lo1.net.ohio-state.edu" ipaddr="164.107.2.35" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.37"></address><hostnames><hostname type="PTR" name="tc4-teng8-6.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="58.00" host="tc4-teng8-6.net.ohio-state.edu" ipaddr="164.107.2.37" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.38"></address><hostnames><hostname type="PTR" name="tc-dc2a-teng3-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="70.00" host="tc-dc2a-teng3-1.net.ohio-state.edu" ipaddr="164.107.2.38" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.41"></address><hostnames><hostname type="PTR" name="tc2-ser0-1-4c0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="tc2-ser0-1-4c0.net.ohio-state.edu" ipaddr="164.107.2.41" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.42"></address><hostnames><hostname type="PTR" name="taylor211.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="71.00" host="taylor211.net.ohio-state.edu" ipaddr="164.107.2.42" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.45"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1709.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="tc2-gig0-0-3s1709.net.ohio-state.edu" ipaddr="164.107.2.45" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.46"></address><hostnames><hostname type="PTR" name="tennis1-fa0-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="tennis1-fa0-1.net.ohio-state.edu" ipaddr="164.107.2.46" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.48"></address><hostnames><hostname type="PTR" name="pres1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="65.00" host="pres1-lo0.net.ohio-state.edu" ipaddr="164.107.2.48" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.49"></address><hostnames><hostname type="PTR" name="socc-dc2b-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="56.00" host="socc-dc2b-lo0.net.ohio-state.edu" ipaddr="164.107.2.49" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.51"></address><hostnames><hostname type="PTR" name="tennis1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="75.00" host="tennis1-lo0.net.ohio-state.edu" ipaddr="164.107.2.51" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.53"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1710.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="tc2-gig0-0-3s1710.net.ohio-state.edu" ipaddr="164.107.2.53" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.54"></address><hostnames><hostname type="PTR" name="cx1-fa0-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="63.00" host="cx1-fa0-0.net.ohio-state.edu" ipaddr="164.107.2.54" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.57"></address><hostnames><hostname type="PTR" name="tc2-mul2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="tc2-mul2.net.ohio-state.edu" ipaddr="164.107.2.57" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.58"></address><hostnames><hostname type="PTR" name="knight1-mul2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="knight1-mul2.net.ohio-state.edu" ipaddr="164.107.2.58" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.61"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1708.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="tc2-gig0-0-3s1708.net.ohio-state.edu" ipaddr="164.107.2.61" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.62"></address><hostnames><hostname type="PTR" name="sf1-fa0-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="sf1-fa0-1.net.ohio-state.edu" ipaddr="164.107.2.62" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.65"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-3s349.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="57.00" host="kc2-gig0-0-3s349.net.ohio-state.edu" ipaddr="164.107.2.65" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.66"></address><hostnames><hostname type="PTR" name="mar1-gig0-0-0s349.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="85.00" host="mar1-gig0-0-0s349.net.ohio-state.edu" ipaddr="164.107.2.66" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.69"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1701.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="tc2-gig0-0-3s1701.net.ohio-state.edu" ipaddr="164.107.2.69" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.70"></address><hostnames><hostname type="PTR" name="lima1-ser1-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="lima1-ser1-0.net.ohio-state.edu" ipaddr="164.107.2.70" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.73"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-3s348.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="71.00" host="kc2-gig0-0-3s348.net.ohio-state.edu" ipaddr="164.107.2.73" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.74"></address><hostnames><hostname type="PTR" name="new1-gig0-0-0s348.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="66.00" host="new1-gig0-0-0s348.net.ohio-state.edu" ipaddr="164.107.2.74" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.77"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1711.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="67.00" host="tc2-gig0-0-3s1711.net.ohio-state.edu" ipaddr="164.107.2.77" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.78"></address><hostnames><hostname type="PTR" name="dsa1-gig0-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="64.00" host="dsa1-gig0-3.net.ohio-state.edu" ipaddr="164.107.2.78" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.81"></address><hostnames><hostname type="PTR" name="tc1-forg1-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="tc1-forg1-4.net.ohio-state.edu" ipaddr="164.107.2.81" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.82"></address><hostnames><hostname type="PTR" name="kc1-forg2-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="kc1-forg2-4.net.ohio-state.edu" ipaddr="164.107.2.82" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.85"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1705.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="54.00" host="tc2-gig0-0-3s1705.net.ohio-state.edu" ipaddr="164.107.2.85" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.86"></address><hostnames><hostname type="PTR" name="gh1-fa0-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="60.00" host="gh1-fa0-1.net.ohio-state.edu" ipaddr="164.107.2.86" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.89"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="55.00" host="" ipaddr="164.107.2.89" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.90"></address><hostnames><hostname type="PTR" name="tctest-asr1002.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="58.00" host="tctest-asr1002.net.ohio-state.edu" ipaddr="164.107.2.90" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.93"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1706.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="tc2-gig0-0-3s1706.net.ohio-state.edu" ipaddr="164.107.2.93" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.94"></address><hostnames><hostname type="PTR" name="pres1-fa0-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="67.00" host="pres1-fa0-1.net.ohio-state.edu" ipaddr="164.107.2.94" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.101"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1707.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="77.00" host="tc2-gig0-0-3s1707.net.ohio-state.edu" ipaddr="164.107.2.101" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.102"></address><hostnames><hostname type="PTR" name="lazarus1-fa0-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="lazarus1-fa0-1.net.ohio-state.edu" ipaddr="164.107.2.102" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.105"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-3s347.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="66.00" host="kc2-gig0-0-3s347.net.ohio-state.edu" ipaddr="164.107.2.105" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.106"></address><hostnames><hostname type="PTR" name="lima1-gig0-0-0s347.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="lima1-gig0-0-0s347.net.ohio-state.edu" ipaddr="164.107.2.106" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.109"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1846.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="64.00" host="tc2-gig0-0-3s1846.net.ohio-state.edu" ipaddr="164.107.2.109" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.110"></address><hostnames><hostname type="PTR" name="oardc1-gig0-0-0s1846.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="oardc1-gig0-0-0s1846.net.ohio-state.edu" ipaddr="164.107.2.110" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.113"></address><hostnames><hostname type="PTR" name="tc1-gig5-45.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="114.00" host="tc1-gig5-45.net.ohio-state.edu" ipaddr="164.107.2.113" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.114"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="57.00" host="tc2-gig0-0-0.net.ohio-state.edu" ipaddr="164.107.2.114" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.117"></address><hostnames><hostname type="PTR" name="tc1-vl812.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="102.00" host="tc1-vl812.net.ohio-state.edu" ipaddr="164.107.2.117" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.118"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="57.00" host="" ipaddr="164.107.2.118" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.121"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1847.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="402.00" host="tc2-gig0-0-3s1847.net.ohio-state.edu" ipaddr="164.107.2.121" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.122"></address><hostnames><hostname type="PTR" name="lima1-gig0-0-0s1847.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="438.00" host="lima1-gig0-0-0s1847.net.ohio-state.edu" ipaddr="164.107.2.122" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.125"></address><hostnames><hostname type="PTR" name="tc4-gig4-25.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="390.00" host="tc4-gig4-25.net.ohio-state.edu" ipaddr="164.107.2.125" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.126"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="435.00" host="tc2-gig0-0-2.net.ohio-state.edu" ipaddr="164.107.2.126" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.132"></address><hostnames><hostname type="PTR" name="adc1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="446.00" host="adc1-lo0.net.ohio-state.edu" ipaddr="164.107.2.132" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.133"></address><hostnames><hostname type="PTR" name="tc-dc2a-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="446.00" host="tc-dc2a-lo0.net.ohio-state.edu" ipaddr="164.107.2.133" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.134"></address><hostnames><hostname type="PTR" name="tctest1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="242.00" host="tctest1.net.ohio-state.edu" ipaddr="164.107.2.134" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.135"></address><hostnames><hostname type="PTR" name="dvm1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="448.00" host="dvm1-lo0.net.ohio-state.edu" ipaddr="164.107.2.135" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.136"></address><hostnames><hostname type="PTR" name="kc7-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="82.00" host="kc7-lo0.net.ohio-state.edu" ipaddr="164.107.2.136" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.137"></address><hostnames><hostname type="PTR" name="se7-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="se7-lo0.net.ohio-state.edu" ipaddr="164.107.2.137" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.139"></address><hostnames><hostname type="PTR" name="jackson1-lo0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="406.00" host="jackson1-lo0.net.ohio-state.edu" ipaddr="164.107.2.139" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.141"></address><hostnames><hostname type="PTR" name="tc1-vl823.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="58.00" host="tc1-vl823.net.ohio-state.edu" ipaddr="164.107.2.141" ttl="19"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.142"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="60.00" host="" ipaddr="164.107.2.142" ttl="20"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.145"></address><hostnames><hostname type="PTR" name="kc1-vl589.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="150.00" host="kc1-vl589.net.ohio-state.edu" ipaddr="164.107.2.145" ttl="18"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.146"></address><hostnames><hostname type="PTR" name="adc1-gig0-2s2208.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="62.00" host="adc1-gig0-2s2208.net.ohio-state.edu" ipaddr="164.107.2.146" ttl="19"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.149"></address><hostnames><hostname type="PTR" name="kc1-forg2-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="475.00" host="kc1-forg2-3.net.ohio-state.edu" ipaddr="164.107.2.149" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.150"></address><hostnames><hostname type="PTR" name="se4-forg2-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="se4-forg2-4.net.ohio-state.edu" ipaddr="164.107.2.150" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.153"></address><hostnames><hostname type="PTR" name="kc6-teng8-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="kc6-teng8-1.net.ohio-state.edu" ipaddr="164.107.2.153" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.154"></address><hostnames><hostname type="PTR" name="se3-teng7-2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="91.00" host="se3-teng7-2.net.ohio-state.edu" ipaddr="164.107.2.154" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.157"></address><hostnames><hostname type="PTR" name="kc6-teng8-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="72.00" host="kc6-teng8-3.net.ohio-state.edu" ipaddr="164.107.2.157" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.158"></address><hostnames><hostname type="PTR" name="tc4-teng8-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="81.00" host="tc4-teng8-1.net.ohio-state.edu" ipaddr="164.107.2.158" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.161"></address><hostnames><hostname type="PTR" name="tc4-teng8-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="75.00" host="tc4-teng8-4.net.ohio-state.edu" ipaddr="164.107.2.161" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.162"></address><hostnames><hostname type="PTR" name="tc1-teng7-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="114.00" host="tc1-teng7-4.net.ohio-state.edu" ipaddr="164.107.2.162" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.165"></address><hostnames><hostname type="PTR" name="tc2-ser0-1-2c0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="86.00" host="tc2-ser0-1-2c0.net.ohio-state.edu" ipaddr="164.107.2.165" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.166"></address><hostnames><hostname type="PTR" name="caldwell1-ser0-3-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="75.00" host="caldwell1-ser0-3-0.net.ohio-state.edu" ipaddr="164.107.2.166" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.169"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1848.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="82.00" host="tc2-gig0-0-3s1848.net.ohio-state.edu" ipaddr="164.107.2.169" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.170"></address><hostnames><hostname type="PTR" name="new1-gig0-0-0s1848.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="63.00" host="new1-gig0-0-0s1848.net.ohio-state.edu" ipaddr="164.107.2.170" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.173"></address><hostnames><hostname type="PTR" name="tc2-ser0-1-0c0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="79.00" host="tc2-ser0-1-0c0.net.ohio-state.edu" ipaddr="164.107.2.173" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.174"></address><hostnames><hostname type="PTR" name="jackson1-ser0-1-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="70.00" host="jackson1-ser0-1-0.net.ohio-state.edu" ipaddr="164.107.2.174" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.177"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1713.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="tc2-gig0-0-3s1713.net.ohio-state.edu" ipaddr="164.107.2.177" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.178"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.2.178" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.181"></address><hostnames><hostname type="PTR" name="tc2-ser0-1-1c0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="tc2-ser0-1-1c0.net.ohio-state.edu" ipaddr="164.107.2.181" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.182"></address><hostnames><hostname type="PTR" name="adc1-ser1-0c0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="58.00" host="adc1-ser1-0c0.net.ohio-state.edu" ipaddr="164.107.2.182" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.185"></address><hostnames><hostname type="PTR" name="se3-teng7-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="63.00" host="se3-teng7-3.net.ohio-state.edu" ipaddr="164.107.2.185" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.186"></address><hostnames><hostname type="PTR" name="tc4-teng8-2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="66.00" host="tc4-teng8-2.net.ohio-state.edu" ipaddr="164.107.2.186" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.189"></address><hostnames><hostname type="PTR" name="se4-forg2-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="67.00" host="se4-forg2-3.net.ohio-state.edu" ipaddr="164.107.2.189" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.190"></address><hostnames><hostname type="PTR" name="tc1-forg2-4.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="56.00" host="tc1-forg2-4.net.ohio-state.edu" ipaddr="164.107.2.190" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.193"></address><hostnames><hostname type="PTR" name="kc3-teng1-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="kc3-teng1-1.net.ohio-state.edu" ipaddr="164.107.2.193" ttl="13"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.194"></address><hostnames><hostname type="PTR" name="kc1-teng1-20.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="140.00" host="kc1-teng1-20.net.ohio-state.edu" ipaddr="164.107.2.194" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.201"></address><hostnames><hostname type="PTR" name="kc6-gig4-25.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="kc6-gig4-25.net.ohio-state.edu" ipaddr="164.107.2.201" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.202"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="kc2-gig0-0-0.net.ohio-state.edu" ipaddr="164.107.2.202" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.205"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1704.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="64.00" host="tc2-gig0-0-3s1704.net.ohio-state.edu" ipaddr="164.107.2.205" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.206"></address><hostnames><hostname type="PTR" name="fsr1-fa0-0.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="64.00" host="fsr1-fa0-0.net.ohio-state.edu" ipaddr="164.107.2.206" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.209"></address><hostnames><hostname type="PTR" name="kc1-gig5-47.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="55.00" host="kc1-gig5-47.net.ohio-state.edu" ipaddr="164.107.2.209" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.210"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="57.00" host="kc2-gig0-0-2.net.ohio-state.edu" ipaddr="164.107.2.210" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.213"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-3s350.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="53.00" host="kc2-gig0-0-3s350.net.ohio-state.edu" ipaddr="164.107.2.213" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.214"></address><hostnames><hostname type="PTR" name="man1-gig0-0-0s350.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="67.00" host="man1-gig0-0-0s350.net.ohio-state.edu" ipaddr="164.107.2.214" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.217"></address><hostnames><hostname type="PTR" name="kc3-teng1-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="69.00" host="kc3-teng1-3.net.ohio-state.edu" ipaddr="164.107.2.217" ttl="13"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.218"></address><hostnames><hostname type="PTR" name="tc6-teng2-2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="60.00" host="tc6-teng2-2.net.ohio-state.edu" ipaddr="164.107.2.218" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.221"></address><hostnames><hostname type="PTR" name="se3-teng7-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="72.00" host="se3-teng7-1.net.ohio-state.edu" ipaddr="164.107.2.221" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.222"></address><hostnames><hostname type="PTR" name="se4-teng7-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="60.00" host="se4-teng7-1.net.ohio-state.edu" ipaddr="164.107.2.222" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.225"></address><hostnames><hostname type="PTR" name="kc3-teng1-4s1720.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="kc3-teng1-4s1720.net.ohio-state.edu" ipaddr="164.107.2.225" ttl="13"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.226"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="69.00" host="" ipaddr="164.107.2.226" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.229"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1849.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="60.00" host="tc2-gig0-0-3s1849.net.ohio-state.edu" ipaddr="164.107.2.229" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.230"></address><hostnames><hostname type="PTR" name="mar1-gig0-0-0s1849.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="76.00" host="mar1-gig0-0-0s1849.net.ohio-state.edu" ipaddr="164.107.2.230" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.233"></address><hostnames><hostname type="PTR" name="kc2-gig0-0-3s346.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="62.00" host="kc2-gig0-0-3s346.net.ohio-state.edu" ipaddr="164.107.2.233" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.234"></address><hostnames><hostname type="PTR" name="oardc1-gig0-0-0s346.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="74.00" host="oardc1-gig0-0-0s346.net.ohio-state.edu" ipaddr="164.107.2.234" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.237"></address><hostnames><hostname type="PTR" name="tc6-teng2-4s1721.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="54.00" host="tc6-teng2-4s1721.net.ohio-state.edu" ipaddr="164.107.2.237" ttl="14"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.238"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="61.00" host="" ipaddr="164.107.2.238" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.241"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1703.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="70.00" host="tc2-gig0-0-3s1703.net.ohio-state.edu" ipaddr="164.107.2.241" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.242"></address><hostnames><hostname type="PTR" name="adc1-gig0-3.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="57.00" host="adc1-gig0-3.net.ohio-state.edu" ipaddr="164.107.2.242" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.245"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1700.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="60.00" host="tc2-gig0-0-3s1700.net.ohio-state.edu" ipaddr="164.107.2.245" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.246"></address><hostnames></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="70.00" host="" ipaddr="164.107.2.246" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.249"></address><hostnames><hostname type="PTR" name="tc2-gig0-0-3s1850.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="68.00" host="tc2-gig0-0-3s1850.net.ohio-state.edu" ipaddr="164.107.2.249" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.250"></address><hostnames><hostname type="PTR" name="man1-gig0-0-0s1850.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="63.00" host="man1-gig0-0-0s1850.net.ohio-state.edu" ipaddr="164.107.2.250" ttl="17"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.253"></address><hostnames><hostname type="PTR" name="tc1-teng7-2.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="70.00" host="tc1-teng7-2.net.ohio-state.edu" ipaddr="164.107.2.253" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.2.254"></address><hostnames><hostname type="PTR" name="tc6-teng2-1.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="3.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="156.00" host="tc6-teng2-1.net.ohio-state.edu" ipaddr="164.107.2.254" ttl="14"></hop></trace></host><runstats><finished timestr="Sun Feb 15 20:22:10 2015" time="1424049730"></finished><hosts down="573" total="768" up="195"></hosts></runstats></nmaprun>

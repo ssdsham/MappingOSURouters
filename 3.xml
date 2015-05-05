@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet href="file:///C:/Program Files (x86)/Nmap/nmap.xsl" type="text/xsl"?><nmaprun start="1424124149" profile_name="Quick traceroute" xmloutputversion="1.04" scanner="nmap" version="6.47" startstr="Mon Feb 16 17:02:29 2015" args="nmap -sn --traceroute 164.107.102.0-255"><verbose level="0"></verbose><debugging level="0"></debugging><output type="interactive">
+Starting Nmap 6.47 ( http://nmap.org ) at 2015-02-16 17:02 Eastern Standard Time
+Nmap scan report for tc1-vl3153.net.ohio-state.edu (164.107.102.1)
+Host is up (0.054s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   2.00 ms  192.168.0.1
+2   ... 14
+15  55.00 ms tc1-vl3153.net.ohio-state.edu (164.107.102.1)
+
+Nmap scan report for dhcp-164-107-102-17.osuwireless.ohio-state.edu (164.107.102.17)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  116.00 ms dhcp-164-107-102-17.osuwireless.ohio-state.edu (164.107.102.17)
+
+Nmap scan report for dhcp-164-107-102-26.osuwireless.ohio-state.edu (164.107.102.26)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  381.00 ms dhcp-164-107-102-26.osuwireless.ohio-state.edu (164.107.102.26)
+
+Nmap scan report for dhcp-164-107-102-27.osuwireless.ohio-state.edu (164.107.102.27)
+Host is up (0.10s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  100.00 ms dhcp-164-107-102-27.osuwireless.ohio-state.edu (164.107.102.27)
+
+Nmap scan report for dhcp-164-107-102-28.osuwireless.ohio-state.edu (164.107.102.28)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-33.osuwireless.ohio-state.edu (164.107.102.33)
+Host is up (0.27s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  213.00 ms dhcp-164-107-102-33.osuwireless.ohio-state.edu (164.107.102.33)
+
+Nmap scan report for dhcp-164-107-102-43.osuwireless.ohio-state.edu (164.107.102.43)
+Host is up (0.60s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  76.00 ms dhcp-164-107-102-43.osuwireless.ohio-state.edu (164.107.102.43)
+
+Nmap scan report for dhcp-164-107-102-44.osuwireless.ohio-state.edu (164.107.102.44)
+Host is up (0.078s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  68.00 ms dhcp-164-107-102-44.osuwireless.ohio-state.edu (164.107.102.44)
+
+Nmap scan report for dhcp-164-107-102-45.osuwireless.ohio-state.edu (164.107.102.45)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+1   ... 30
+
+Nmap scan report for dhcp-164-107-102-48.osuwireless.ohio-state.edu (164.107.102.48)
+Host is up (0.18s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  154.00 ms dhcp-164-107-102-48.osuwireless.ohio-state.edu (164.107.102.48)
+
+Nmap scan report for dhcp-164-107-102-50.osuwireless.ohio-state.edu (164.107.102.50)
+Host is up (0.96s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  394.00 ms dhcp-164-107-102-50.osuwireless.ohio-state.edu (164.107.102.50)
+
+Nmap scan report for dhcp-164-107-102-53.osuwireless.ohio-state.edu (164.107.102.53)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  194.00 ms dhcp-164-107-102-53.osuwireless.ohio-state.edu (164.107.102.53)
+
+Nmap scan report for dhcp-164-107-102-56.osuwireless.ohio-state.edu (164.107.102.56)
+Host is up (0.078s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 19
+20  82.00 ms dhcp-164-107-102-56.osuwireless.ohio-state.edu (164.107.102.56)
+
+Nmap scan report for dhcp-164-107-102-57.osuwireless.ohio-state.edu (164.107.102.57)
+Host is up (0.059s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  63.00 ms dhcp-164-107-102-57.osuwireless.ohio-state.edu (164.107.102.57)
+
+Nmap scan report for dhcp-164-107-102-59.osuwireless.ohio-state.edu (164.107.102.59)
+Host is up (0.33s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  459.00 ms dhcp-164-107-102-59.osuwireless.ohio-state.edu (164.107.102.59)
+
+Nmap scan report for dhcp-164-107-102-65.osuwireless.ohio-state.edu (164.107.102.65)
+Host is up (0.11s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  144.00 ms dhcp-164-107-102-65.osuwireless.ohio-state.edu (164.107.102.65)
+
+Nmap scan report for dhcp-164-107-102-67.osuwireless.ohio-state.edu (164.107.102.67)
+Host is up (0.068s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  95.00 ms dhcp-164-107-102-67.osuwireless.ohio-state.edu (164.107.102.67)
+
+Nmap scan report for dhcp-164-107-102-68.osuwireless.ohio-state.edu (164.107.102.68)
+Host is up (0.063s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  58.00 ms dhcp-164-107-102-68.osuwireless.ohio-state.edu (164.107.102.68)
+
+Nmap scan report for dhcp-164-107-102-69.osuwireless.ohio-state.edu (164.107.102.69)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  55.00 ms dhcp-164-107-102-69.osuwireless.ohio-state.edu (164.107.102.69)
+
+Nmap scan report for dhcp-164-107-102-74.osuwireless.ohio-state.edu (164.107.102.74)
+Host is up (0.061s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-78.osuwireless.ohio-state.edu (164.107.102.78)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  179.00 ms dhcp-164-107-102-78.osuwireless.ohio-state.edu (164.107.102.78)
+
+Nmap scan report for dhcp-164-107-102-88.osuwireless.ohio-state.edu (164.107.102.88)
+Host is up (0.24s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  277.00 ms dhcp-164-107-102-88.osuwireless.ohio-state.edu (164.107.102.88)
+
+Nmap scan report for dhcp-164-107-102-91.osuwireless.ohio-state.edu (164.107.102.91)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  95.00 ms dhcp-164-107-102-91.osuwireless.ohio-state.edu (164.107.102.91)
+
+Nmap scan report for dhcp-164-107-102-100.osuwireless.ohio-state.edu (164.107.102.100)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  93.00 ms dhcp-164-107-102-100.osuwireless.ohio-state.edu (164.107.102.100)
+
+Nmap scan report for dhcp-164-107-102-103.osuwireless.ohio-state.edu (164.107.102.103)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  254.00 ms dhcp-164-107-102-103.osuwireless.ohio-state.edu (164.107.102.103)
+
+Nmap scan report for dhcp-164-107-102-107.osuwireless.ohio-state.edu (164.107.102.107)
+Host is up (0.70s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT        ADDRESS
+1   ... 15
+16  1060.00 ms dhcp-164-107-102-107.osuwireless.ohio-state.edu (164.107.102.107)
+
+Nmap scan report for dhcp-164-107-102-118.osuwireless.ohio-state.edu (164.107.102.118)
+Host is up (0.24s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  59.00 ms dhcp-164-107-102-118.osuwireless.ohio-state.edu (164.107.102.118)
+
+Nmap scan report for dhcp-164-107-102-120.osuwireless.ohio-state.edu (164.107.102.120)
+Host is up (0.059s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  54.00 ms dhcp-164-107-102-120.osuwireless.ohio-state.edu (164.107.102.120)
+
+Nmap scan report for dhcp-164-107-102-124.osuwireless.ohio-state.edu (164.107.102.124)
+Host is up (0.25s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  281.00 ms dhcp-164-107-102-124.osuwireless.ohio-state.edu (164.107.102.124)
+
+Nmap scan report for dhcp-164-107-102-127.osuwireless.ohio-state.edu (164.107.102.127)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-130.osuwireless.ohio-state.edu (164.107.102.130)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  192.00 ms dhcp-164-107-102-130.osuwireless.ohio-state.edu (164.107.102.130)
+
+Nmap scan report for dhcp-164-107-102-131.osuwireless.ohio-state.edu (164.107.102.131)
+Host is up (0.22s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  374.00 ms dhcp-164-107-102-131.osuwireless.ohio-state.edu (164.107.102.131)
+
+Nmap scan report for dhcp-164-107-102-132.osuwireless.ohio-state.edu (164.107.102.132)
+Host is up (0.24s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-146.osuwireless.ohio-state.edu (164.107.102.146)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  130.00 ms dhcp-164-107-102-146.osuwireless.ohio-state.edu (164.107.102.146)
+
+Nmap scan report for dhcp-164-107-102-148.osuwireless.ohio-state.edu (164.107.102.148)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  65.00 ms dhcp-164-107-102-148.osuwireless.ohio-state.edu (164.107.102.148)
+
+Nmap scan report for dhcp-164-107-102-150.osuwireless.ohio-state.edu (164.107.102.150)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  142.00 ms dhcp-164-107-102-150.osuwireless.ohio-state.edu (164.107.102.150)
+
+Nmap scan report for dhcp-164-107-102-158.osuwireless.ohio-state.edu (164.107.102.158)
+Host is up (0.100s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  60.00 ms dhcp-164-107-102-158.osuwireless.ohio-state.edu (164.107.102.158)
+
+Nmap scan report for dhcp-164-107-102-160.osuwireless.ohio-state.edu (164.107.102.160)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  59.00 ms dhcp-164-107-102-160.osuwireless.ohio-state.edu (164.107.102.160)
+
+Nmap scan report for dhcp-164-107-102-161.osuwireless.ohio-state.edu (164.107.102.161)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  270.00 ms dhcp-164-107-102-161.osuwireless.ohio-state.edu (164.107.102.161)
+
+Nmap scan report for dhcp-164-107-102-169.osuwireless.ohio-state.edu (164.107.102.169)
+Host is up (0.59s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  350.00 ms dhcp-164-107-102-169.osuwireless.ohio-state.edu (164.107.102.169)
+
+Nmap scan report for dhcp-164-107-102-173.osuwireless.ohio-state.edu (164.107.102.173)
+Host is up (0.26s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  391.00 ms dhcp-164-107-102-173.osuwireless.ohio-state.edu (164.107.102.173)
+
+Nmap scan report for dhcp-164-107-102-174.osuwireless.ohio-state.edu (164.107.102.174)
+Host is up (0.12s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  153.00 ms dhcp-164-107-102-174.osuwireless.ohio-state.edu (164.107.102.174)
+
+Nmap scan report for dhcp-164-107-102-177.osuwireless.ohio-state.edu (164.107.102.177)
+Host is up (0.12s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  61.00 ms dhcp-164-107-102-177.osuwireless.ohio-state.edu (164.107.102.177)
+
+Nmap scan report for dhcp-164-107-102-181.osuwireless.ohio-state.edu (164.107.102.181)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-182.osuwireless.ohio-state.edu (164.107.102.182)
+Host is up (0.23s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-185.osuwireless.ohio-state.edu (164.107.102.185)
+Host is up (0.12s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  62.00 ms dhcp-164-107-102-185.osuwireless.ohio-state.edu (164.107.102.185)
+
+Nmap scan report for dhcp-164-107-102-191.osuwireless.ohio-state.edu (164.107.102.191)
+Host is up (0.62s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  135.00 ms dhcp-164-107-102-191.osuwireless.ohio-state.edu (164.107.102.191)
+
+Nmap scan report for dhcp-164-107-102-192.osuwireless.ohio-state.edu (164.107.102.192)
+Host is up (0.27s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.1
+2   ... 15
+16  371.00 ms dhcp-164-107-102-192.osuwireless.ohio-state.edu (164.107.102.192)
+
+Nmap scan report for dhcp-164-107-102-193.osuwireless.ohio-state.edu (164.107.102.193)
+Host is up (0.11s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+1   ... 15
+16  91.00 ms dhcp-164-107-102-193.osuwireless.ohio-state.edu (164.107.102.193)
+
+Nmap scan report for dhcp-164-107-102-197.osuwireless.ohio-state.edu (164.107.102.197)
+Host is up (0.19s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  142.00 ms dhcp-164-107-102-197.osuwireless.ohio-state.edu (164.107.102.197)
+
+Nmap scan report for dhcp-164-107-102-199.osuwireless.ohio-state.edu (164.107.102.199)
+Host is up (0.13s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   209.00 ms 192.168.0.1
+2   ... 15
+16  58.00 ms  dhcp-164-107-102-199.osuwireless.ohio-state.edu (164.107.102.199)
+
+Nmap scan report for dhcp-164-107-102-207.osuwireless.ohio-state.edu (164.107.102.207)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  112.00 ms dhcp-164-107-102-207.osuwireless.ohio-state.edu (164.107.102.207)
+
+Nmap scan report for dhcp-164-107-102-209.osuwireless.ohio-state.edu (164.107.102.209)
+Host is up (0.083s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  69.00 ms dhcp-164-107-102-209.osuwireless.ohio-state.edu (164.107.102.209)
+
+Nmap scan report for dhcp-164-107-102-217.osuwireless.ohio-state.edu (164.107.102.217)
+Host is up (0.16s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+1   ... 15
+16  253.00 ms dhcp-164-107-102-217.osuwireless.ohio-state.edu (164.107.102.217)
+
+Nmap scan report for dhcp-164-107-102-226.osuwireless.ohio-state.edu (164.107.102.226)
+Host is up (0.065s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  60.00 ms dhcp-164-107-102-226.osuwireless.ohio-state.edu (164.107.102.226)
+
+Nmap scan report for dhcp-164-107-102-227.osuwireless.ohio-state.edu (164.107.102.227)
+Host is up (0.15s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-229.osuwireless.ohio-state.edu (164.107.102.229)
+Host is up (0.098s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  71.00 ms dhcp-164-107-102-229.osuwireless.ohio-state.edu (164.107.102.229)
+
+Nmap scan report for dhcp-164-107-102-233.osuwireless.ohio-state.edu (164.107.102.233)
+Host is up (0.072s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  116.00 ms dhcp-164-107-102-233.osuwireless.ohio-state.edu (164.107.102.233)
+
+Nmap scan report for dhcp-164-107-102-238.osuwireless.ohio-state.edu (164.107.102.238)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT    ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 30
+
+Nmap scan report for dhcp-164-107-102-241.osuwireless.ohio-state.edu (164.107.102.241)
+Host is up (0.14s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  79.00 ms dhcp-164-107-102-241.osuwireless.ohio-state.edu (164.107.102.241)
+
+Nmap scan report for dhcp-164-107-102-248.osuwireless.ohio-state.edu (164.107.102.248)
+Host is up (0.20s latency).
+
+TRACEROUTE (using proto 1/icmp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 164.107.102.199
+2   ... 15
+16  305.00 ms dhcp-164-107-102-248.osuwireless.ohio-state.edu (164.107.102.248)
+
+Nmap done: 256 IP addresses (61 hosts up) scanned in 367.25 seconds
+</output><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.1"></address><hostnames><hostname type="PTR" name="tc1-vl3153.net.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="55.00" host="tc1-vl3153.net.ohio-state.edu" ipaddr="164.107.102.1" ttl="15"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.17"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-17.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="116.00" host="dhcp-164-107-102-17.osuwireless.ohio-state.edu" ipaddr="164.107.102.17" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.26"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-26.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="381.00" host="dhcp-164-107-102-26.osuwireless.ohio-state.edu" ipaddr="164.107.102.26" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.27"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-27.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="100.00" host="dhcp-164-107-102-27.osuwireless.ohio-state.edu" ipaddr="164.107.102.27" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.28"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-28.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.33"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-33.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="213.00" host="dhcp-164-107-102-33.osuwireless.ohio-state.edu" ipaddr="164.107.102.33" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.43"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-43.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="76.00" host="dhcp-164-107-102-43.osuwireless.ohio-state.edu" ipaddr="164.107.102.43" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.44"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-44.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="68.00" host="dhcp-164-107-102-44.osuwireless.ohio-state.edu" ipaddr="164.107.102.44" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.45"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-45.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.48"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-48.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="154.00" host="dhcp-164-107-102-48.osuwireless.ohio-state.edu" ipaddr="164.107.102.48" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.50"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-50.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="394.00" host="dhcp-164-107-102-50.osuwireless.ohio-state.edu" ipaddr="164.107.102.50" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.53"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-53.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="194.00" host="dhcp-164-107-102-53.osuwireless.ohio-state.edu" ipaddr="164.107.102.53" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.56"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-56.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="82.00" host="dhcp-164-107-102-56.osuwireless.ohio-state.edu" ipaddr="164.107.102.56" ttl="20"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.57"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-57.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="63.00" host="dhcp-164-107-102-57.osuwireless.ohio-state.edu" ipaddr="164.107.102.57" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.59"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-59.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="459.00" host="dhcp-164-107-102-59.osuwireless.ohio-state.edu" ipaddr="164.107.102.59" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.65"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-65.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="144.00" host="dhcp-164-107-102-65.osuwireless.ohio-state.edu" ipaddr="164.107.102.65" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.67"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-67.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="95.00" host="dhcp-164-107-102-67.osuwireless.ohio-state.edu" ipaddr="164.107.102.67" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.68"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-68.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="58.00" host="dhcp-164-107-102-68.osuwireless.ohio-state.edu" ipaddr="164.107.102.68" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.69"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-69.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="55.00" host="dhcp-164-107-102-69.osuwireless.ohio-state.edu" ipaddr="164.107.102.69" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.74"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-74.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.78"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-78.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="179.00" host="dhcp-164-107-102-78.osuwireless.ohio-state.edu" ipaddr="164.107.102.78" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.88"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-88.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="277.00" host="dhcp-164-107-102-88.osuwireless.ohio-state.edu" ipaddr="164.107.102.88" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.91"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-91.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="95.00" host="dhcp-164-107-102-91.osuwireless.ohio-state.edu" ipaddr="164.107.102.91" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.100"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-100.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="93.00" host="dhcp-164-107-102-100.osuwireless.ohio-state.edu" ipaddr="164.107.102.100" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.103"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-103.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="254.00" host="dhcp-164-107-102-103.osuwireless.ohio-state.edu" ipaddr="164.107.102.103" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.107"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-107.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="1060.00" host="dhcp-164-107-102-107.osuwireless.ohio-state.edu" ipaddr="164.107.102.107" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.118"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-118.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="59.00" host="dhcp-164-107-102-118.osuwireless.ohio-state.edu" ipaddr="164.107.102.118" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.120"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-120.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="54.00" host="dhcp-164-107-102-120.osuwireless.ohio-state.edu" ipaddr="164.107.102.120" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.124"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-124.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="281.00" host="dhcp-164-107-102-124.osuwireless.ohio-state.edu" ipaddr="164.107.102.124" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.127"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-127.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.130"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-130.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="192.00" host="dhcp-164-107-102-130.osuwireless.ohio-state.edu" ipaddr="164.107.102.130" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.131"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-131.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="374.00" host="dhcp-164-107-102-131.osuwireless.ohio-state.edu" ipaddr="164.107.102.131" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.132"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-132.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.146"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-146.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="130.00" host="dhcp-164-107-102-146.osuwireless.ohio-state.edu" ipaddr="164.107.102.146" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.148"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-148.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="65.00" host="dhcp-164-107-102-148.osuwireless.ohio-state.edu" ipaddr="164.107.102.148" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.150"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-150.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="142.00" host="dhcp-164-107-102-150.osuwireless.ohio-state.edu" ipaddr="164.107.102.150" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.158"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-158.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="60.00" host="dhcp-164-107-102-158.osuwireless.ohio-state.edu" ipaddr="164.107.102.158" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.160"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-160.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="59.00" host="dhcp-164-107-102-160.osuwireless.ohio-state.edu" ipaddr="164.107.102.160" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.161"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-161.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="270.00" host="dhcp-164-107-102-161.osuwireless.ohio-state.edu" ipaddr="164.107.102.161" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.169"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-169.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="350.00" host="dhcp-164-107-102-169.osuwireless.ohio-state.edu" ipaddr="164.107.102.169" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.173"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-173.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="391.00" host="dhcp-164-107-102-173.osuwireless.ohio-state.edu" ipaddr="164.107.102.173" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.174"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-174.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="153.00" host="dhcp-164-107-102-174.osuwireless.ohio-state.edu" ipaddr="164.107.102.174" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.177"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-177.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="61.00" host="dhcp-164-107-102-177.osuwireless.ohio-state.edu" ipaddr="164.107.102.177" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.181"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-181.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.182"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-182.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.185"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-185.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="62.00" host="dhcp-164-107-102-185.osuwireless.ohio-state.edu" ipaddr="164.107.102.185" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.191"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-191.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="135.00" host="dhcp-164-107-102-191.osuwireless.ohio-state.edu" ipaddr="164.107.102.191" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.192"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-192.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="2.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="371.00" host="dhcp-164-107-102-192.osuwireless.ohio-state.edu" ipaddr="164.107.102.192" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.193"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-193.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="91.00" host="dhcp-164-107-102-193.osuwireless.ohio-state.edu" ipaddr="164.107.102.193" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.197"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-197.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="142.00" host="dhcp-164-107-102-197.osuwireless.ohio-state.edu" ipaddr="164.107.102.197" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.199"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-199.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="58.00" host="dhcp-164-107-102-199.osuwireless.ohio-state.edu" ipaddr="164.107.102.199" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.207"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-207.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="112.00" host="dhcp-164-107-102-207.osuwireless.ohio-state.edu" ipaddr="164.107.102.207" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.209"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-209.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="69.00" host="dhcp-164-107-102-209.osuwireless.ohio-state.edu" ipaddr="164.107.102.209" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.217"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-217.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="253.00" host="dhcp-164-107-102-217.osuwireless.ohio-state.edu" ipaddr="164.107.102.217" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.226"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-226.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="60.00" host="dhcp-164-107-102-226.osuwireless.ohio-state.edu" ipaddr="164.107.102.226" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.227"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-227.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.229"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-229.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="71.00" host="dhcp-164-107-102-229.osuwireless.ohio-state.edu" ipaddr="164.107.102.229" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.233"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-233.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="116.00" host="dhcp-164-107-102-233.osuwireless.ohio-state.edu" ipaddr="164.107.102.233" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.238"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-238.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.241"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-241.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="79.00" host="dhcp-164-107-102-241.osuwireless.ohio-state.edu" ipaddr="164.107.102.241" ttl="16"></hop></trace></host><host comment=""><status state="up"></status><address addrtype="ipv4" vendor="" addr="164.107.102.248"></address><hostnames><hostname type="PTR" name="dhcp-164-107-102-248.osuwireless.ohio-state.edu"></hostname></hostnames><ports></ports><os></os><uptime lastboot="" seconds=""></uptime><tcpsequence index="" values="" difficulty=""></tcpsequence><ipidsequence values="" class=""></ipidsequence><tcptssequence values="" class=""></tcptssequence><trace port="" proto="icmp"><hop rtt="209.00" host="" ipaddr="192.168.0.1" ttl="1"></hop><hop rtt="305.00" host="dhcp-164-107-102-248.osuwireless.ohio-state.edu" ipaddr="164.107.102.248" ttl="16"></hop></trace></host><runstats><finished timestr="Mon Feb 16 17:08:34 2015" time="1424124514"></finished><hosts down="195" total="256" up="61"></hosts></runstats></nmaprun>
